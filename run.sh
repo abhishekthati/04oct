@@ -1,1 +1,1 @@
-docker build -t thatiabhishel/dockerdev:tag1
+docker build -t thatiabhishek/dockerdev:tag1 .
